@@ -1,7 +1,1 @@
-{
-  "functions": {
-    "api/bus.js": {
-      "runtime": "edge"
-    }
-  }
-}
+{}
